@@ -18,7 +18,6 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     Shared.initShared();
-    //B4:2E:FF:1F:F9:2C:6F:24:6A:0E:29:FF:D3:0B:AE:CE:C7:80:BA:24
   }
 
   // This widget is the root of your application.
