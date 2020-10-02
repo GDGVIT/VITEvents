@@ -28,13 +28,13 @@
 
 * Installation:
 ```bash
-	flutter pub get
+flutter pub get
 ```
 
 * Execution
 
 ```bash
-	flutter run
+flutter run
 ```
 
 ## Contributors
